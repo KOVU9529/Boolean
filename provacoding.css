@@ -1,0 +1,43 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+color: white;}
+.a{
+  background-color: rgba(0,0,0,0.5);
+  padding: 60px;
+  margin-left: 250px;
+  margin-right: 250px;
+  border-radius: 30px;
+  margin-bottom: 50px;
+  margin-top: 30px;}
+.logo{
+  width: 250px;
+  margin-left: 300px;}
+h1{
+  color: #1dc815;
+  font-size: 35px;
+  text-align: center;}
+nav{
+  text-align: center;
+  font-size: 24px;}
+.row{
+  background-color: #1dc815;
+  width: 850px;
+  margin:auto;
+  height: 35px;
+  }
+strong{
+  color: white;
+  font-size: 25px;}
+.orange{
+  background-color: orange;
+  width: 200px;
+  color: orange;}
+.green{
+  background-color: green;
+  width: 400px;
+  color: green;}
+.red{
+  background-color: red;
+  width: 100px;
+  color: red;}
